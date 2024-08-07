@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning MongoDB and JS
+🔭 I’m currently working on Online Shopping System for a client
 <!--
 **NashIvanRamos/NashIvanRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
